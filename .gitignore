@@ -72,4 +72,26 @@ Intermediate/*
 Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
+Binaries/*
 DerivedDataCache/*
+Intermediate/*
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Assets que no caben en github
+Content/CastleAssets/*
+Content/EuropeanBeech/*
+Content/Fab/*
+Content/GV_FreeShrubsPack/*
+Content/Megaplant_Library/*
+Content/Megascans/*
+Content/MSPresets/*
+Content/StarterContent/*
