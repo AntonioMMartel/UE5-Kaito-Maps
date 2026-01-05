@@ -1,5 +1,5 @@
 # UE5-Kaito-Maps
-Mapa inicial para trabajo de arter elaborado en UE5
+Mapa inicial para trabajo de máster elaborado en UE5
 
 <img width="2017" height="1156" alt="image" src="https://github.com/user-attachments/assets/c62c0a8b-8126-4776-a3c9-eedcc7f177f9" />
 
